@@ -1,4 +1,3 @@
-// import config files
 const { TOKEN, CHANNEL, LIVE } = require("./config.json");
 const ytdl = require("ytdl-core");
 
