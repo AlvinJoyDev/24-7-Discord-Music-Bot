@@ -23,5 +23,3 @@ Change all placeholders at the `config.json` file:
  - `LIVE`: YT Live Video URL
 
 After that, run `node index.js` to start your bot.
-## Discord server
-- [Discord](https://withwin.in/dbd)
